@@ -1,91 +1,69 @@
-## MELLO-FOUR-FOODA
+# Product Name
+> Short blurb about what your product does.
 
-#### Ana Zimerer
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-#### Eduardo Pezzi
+One to two paragraph statement about your product and what it does.
 
-#### Kaueny Alves
+## Screenshots
 
-#### Yuzo Santana Okamoto
+## Installation
 
-#### Renan Takeshi
+```sh
+npm install 
+```
 
-## O que funciona
+## Usage example
 
-- Splashscreen
-- Login, Signup e Cadastro de endereço
-- Feed dos restaurantes
-- Busca
-- Página do restaurante
-- Carrinho
-- Perfil com ordens anteriores
-- Edição de perfil e endereço
-- Barra de Pedido em andamento
+A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-## O que não funciona
+_For more examples and usage, please refer to the [Wiki][wiki]._
 
-- ¯\\\_(ツ)\_/¯
+## Development setup
 
-## Link Surge
+Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-- email: future@future
-- senha: future
-- [http://ifuturea.surge.sh](http://ifuturea.surge.sh/login)
+```sh
+make install
+npm test
+```
 
-## Imagens
+## Release History
 
-- Splashscreen
+* 0.2.1
+    * CHANGE: Update docs (module code remains unchanged)
+* 0.2.0
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
+* 0.1.1
+    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+* 0.1.0
+    * The first proper release
+    * CHANGE: Rename `foo()` to `bar()`
+* 0.0.1
+    * Work in progress
 
-  ![image](https://user-images.githubusercontent.com/10583511/87868928-6cad3700-c971-11ea-9248-b16371640f3c.png)
+## Meta
 
-- Login
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
-  ![image](https://user-images.githubusercontent.com/10583511/87866965-76796f00-c95e-11ea-8b67-077797ec648a.png)
+Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 
-- Signup
+[https://github.com/yourname/github-link](https://github.com/dbader/)
 
-  ![image](https://user-images.githubusercontent.com/10583511/87866988-c5bf9f80-c95e-11ea-9e5f-15928ecf225c.png)
+## Contributing
 
-- Cadastro de endereco
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
-  ![image](https://user-images.githubusercontent.com/10583511/87867045-23ec8280-c95f-11ea-9c69-a65f2baea823.png)
-
-- Feed
-
-  ![image](https://user-images.githubusercontent.com/10583511/87870694-d6810d00-c980-11ea-920d-2d4960de818b.png)
-
-- Busca
-
-  ![image](https://user-images.githubusercontent.com/10583511/87867774-e68bf300-c966-11ea-8b92-294bbe4f73f7.png)
-
-- Restaurante
-
-  ![image](https://user-images.githubusercontent.com/10583511/87867788-0f13ed00-c967-11ea-915c-561f5d84b98a.png)
-
-- Carrinho
-
-  ![image](https://user-images.githubusercontent.com/10583511/87868857-de38b580-c970-11ea-8c58-50cd155a43a3.png)
-
-- Pedido em andamento
-
-  ![image](https://user-images.githubusercontent.com/10583511/87870711-fd3f4380-c980-11ea-8fc9-f99c105f4272.png)
-
-- Perfil
-
-  ![image](https://user-images.githubusercontent.com/10583511/87868904-3e2f5c00-c971-11ea-907b-4fc2709087e1.png)
-
-- Editar perfil
-
-  ![image](https://user-images.githubusercontent.com/10583511/87868908-4be4e180-c971-11ea-98e9-4e38798fcfd2.png)
-
-- Editar endereco
-
-  ![image](https://user-images.githubusercontent.com/10583511/87868919-5d2dee00-c971-11ea-9187-2d0978037c8f.png)
-
-- Perfil sem endereco
-
-  ![image](https://user-images.githubusercontent.com/10583511/87868940-8d758c80-c971-11ea-9dfb-acfc07db643e.png)
-
-- Feed sem endereco
-
-  ![image](https://user-images.githubusercontent.com/10583511/87869089-37094d80-c973-11ea-865d-70410dc02417.png)
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
