@@ -1,10 +1,6 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 One to two paragraph statement about your product and what it does.
 
 ## Screenshots
@@ -47,11 +43,11 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Renan Takeshi – rtakeshi13@gmail.com
 
 Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/rtakeshi13/ifuture](https://github.com/rtakeshi13/ifuture)
 
 ## Contributing
 
@@ -65,5 +61,3 @@ Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
